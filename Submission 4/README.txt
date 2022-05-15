@@ -2,7 +2,7 @@ Unlisted youtube video:
 https://youtu.be/yog4o3g1Ses
 
 Conference submitted paper / paper submission / login Link:
-https://icaisc.eu/Submission#submission
+http://www.psivt.org/psivt2022/paper_submission.html
 
 Paper title:
 A Federated Learning approach for text classification using NLP
@@ -11,15 +11,14 @@ Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1fzG5Wx8hzEXrFkOoroR01TFZ7zMIweLh06ZfT61aKts/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-May 10, 2022
+May 15, 2022
 
 
 Conference Name:
-IICAIET2022 (4th IEEE International Conference on Artificial Intelligence in Engineering and Technology)
+The 10th Pacific-Rim Symposium on Image and Video Technology
 
 Conference URL:
-The 21st International Conference on Artificial Intelligence and Soft Computing 
-
+http://www.psivt.org/psivt2022/index.html
 Group Number:
 12
 
